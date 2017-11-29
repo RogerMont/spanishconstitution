@@ -1,0 +1,5 @@
+el TDMS0
+la TDFS0
+las TDFP0
+lo TDCS0
+los TDMP0
